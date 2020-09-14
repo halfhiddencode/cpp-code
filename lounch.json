@@ -1,0 +1,8 @@
+{
+    "window.zoomLevel": 4,
+    "python.pythonPath": "/usr/bin/python3",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": 	"automaticallyOverrodeDefaultValue",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "C_Cpp.updateChannel": "Insiders"
+}
